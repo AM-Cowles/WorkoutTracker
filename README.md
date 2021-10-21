@@ -27,7 +27,7 @@ The user then is able to:
 
 ## Demo
 
-Deployed Heroku application: https://guarded-headland-88940.herokuapp.com/
+Deployed Heroku application: https://workout-tracker-01.herokuapp.com/
 ## Screenshots
 
 ![homepage](./public/images/tracker1.png)
